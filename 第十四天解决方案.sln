@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_序列化和反序列化", "_01_序列化和反序列化\_01_序列化和反序列化.csproj", "{C8994970-8CEA-48A5-923E-5691E8C8EEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_MD5加密", "_2_MD5加密\_02_MD5加密.csproj", "{1ABEF77D-D838-4C60-B3FC-74BEC4A75B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_MD5加密练习", "_03_MD5加密练习\_03_MD5加密练习.csproj", "{7609D995-9DB1-40A8-AEA6-86F9A59BA9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_序列化和反序列化练习", "_04_序列化和反序列化练习\_04_序列化和反序列化练习.csproj", "{72B3123A-9EAD-4709-8435-C4071ED07E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_面向对象结束", "_05_面向对象结束\_05_面向对象结束.csproj", "{45F85B8D-4481-4155-A2F5-199859441BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8994970-8CEA-48A5-923E-5691E8C8EEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8994970-8CEA-48A5-923E-5691E8C8EEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8994970-8CEA-48A5-923E-5691E8C8EEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8994970-8CEA-48A5-923E-5691E8C8EEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABEF77D-D838-4C60-B3FC-74BEC4A75B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABEF77D-D838-4C60-B3FC-74BEC4A75B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABEF77D-D838-4C60-B3FC-74BEC4A75B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABEF77D-D838-4C60-B3FC-74BEC4A75B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7609D995-9DB1-40A8-AEA6-86F9A59BA9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7609D995-9DB1-40A8-AEA6-86F9A59BA9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7609D995-9DB1-40A8-AEA6-86F9A59BA9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7609D995-9DB1-40A8-AEA6-86F9A59BA9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B3123A-9EAD-4709-8435-C4071ED07E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B3123A-9EAD-4709-8435-C4071ED07E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B3123A-9EAD-4709-8435-C4071ED07E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B3123A-9EAD-4709-8435-C4071ED07E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F85B8D-4481-4155-A2F5-199859441BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F85B8D-4481-4155-A2F5-199859441BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F85B8D-4481-4155-A2F5-199859441BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F85B8D-4481-4155-A2F5-199859441BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {935B1244-996C-4EA5-91D2-91BE8A75D6A5}
+	EndGlobalSection
+EndGlobal
