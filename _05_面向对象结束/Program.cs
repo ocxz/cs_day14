@@ -18,6 +18,7 @@ namespace _05_面向对象结束
             Begin();
 
 
+
         }
 
         /// <summary>
@@ -183,8 +184,8 @@ namespace _05_面向对象结束
             {
                 return false;
             }
-            string express = @"\W";   // 正则表达式 分割规则
-            string operation = Regex.Match((MyUtils.RemoveSpace(expression)).Substring(1), express).Value;
+            string express = @"\W+";   // 正则表达式 分割规则
+            string operation = Regex.Match((MyUtils.RemoveSpace(expression.Replace(".","")).Substring(1)), express).Value;
             if (string.IsNullOrEmpty(operation))   // 操作符没有或大于1
             {
                 return false;
